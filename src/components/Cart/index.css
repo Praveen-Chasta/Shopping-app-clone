@@ -37,4 +37,13 @@
   }
 }
 
-/* Write your CSS here */
+.remove-all-btn {
+  background-color: transparent;
+  color: #0b69ff;
+  font-family: 'Roboto';
+  font-size: 10px;
+  line-height: 16px;
+  border: none;
+  outline: none;
+  cursor: pointer;
+}
